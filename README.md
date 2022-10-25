@@ -153,7 +153,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+        src="https://mui.com/static/logo.png"
         width="48"
         height="48"
         alt="Material-UI"
@@ -173,15 +173,6 @@ You can click the Preview link to take a look at your changes.
         />
         <br /><strong>PostgreSQL</strong>
       </td>
-      <td align="center" height="108" width="108">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          width="48"
-          height="48"
-          alt="MYSQL"
-        />
-        <br /><strong>mySQL</strong>
-      </td>     
   </tr>
   <tr>
     <td>Testing</td>
@@ -231,7 +222,4 @@ You can click the Preview link to take a look at your changes.
       <br /><strong>Chai</strong>
     </td>
   </tr>  
-  
 </table>
-
-![](https://komarev.com/ghpvc/?username=T-Pirozzini&color=brightgreen)
