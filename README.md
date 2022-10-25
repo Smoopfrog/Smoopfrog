@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- 👀 I’m interested in ... Trail Running, D&D, Lo-fi
+- 👀 I’m interested in ... Basketball, D&D, Baking
 - 🌱 I’m currently learning ... Typescript and Tailwind 
 - 📫 How to reach me ... jeffstinson@hotmail.com.com
 
