@@ -4,12 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Jeff Stinson</h1>
 <h2 align="center">Full-Stack Web Developer</h2>
-<h3 align="center">Specializing in Front-End Development</h3>
-
 
 <br>
 
-- 👀 I’m interested in ... Basketball, D&D, Baking
+- :cookie: I’m interested in ... Basketball, D&D, Baking
 - 🌱 I’m currently learning ... Typescript and Tailwind 
 - 📫 How to reach me ... jeffstinson@hotmail.com.com
 
