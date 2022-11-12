@@ -7,9 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- :cookie: I’m interested in ... Basketball, D&D, Baking
-- 🌱 I’m currently learning ... Typescript and Tailwind 
-- 📫 How to reach me ... jeffstinson@hotmail.com.com
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <br>
 
