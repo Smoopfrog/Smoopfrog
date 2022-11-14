@@ -6,10 +6,9 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Full-Stack Web Developer</h2>
 
 <br>
-<p align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Smoopfrog)](https://git.io/streak-stats)
-</p>
+
 <br>
 
 # 📈 Stats:
