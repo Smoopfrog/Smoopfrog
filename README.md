@@ -121,7 +121,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://i.dlpng.com/static/png/7044160_preview.png](https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg"
         width="48"
         height="48"
         alt="JQUERY"
