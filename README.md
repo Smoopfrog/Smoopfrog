@@ -44,14 +44,6 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>JavaScript</strong>
     </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"
-        width="48"
-        height="48"
-        alt="C#"
-      />
-      <br /><strong>JavaScript</strong>
     <td align="center" height="108" width="108">
       <img
         src="https://titrias.com/files/2022/04/typescript.png"
@@ -63,21 +55,20 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"
+        width="48"
+        height="48"
+        alt="C#"
+      />
+      <br /><strong>C#</strong>
+    <td align="center" height="108" width="108">
+      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
         width="48"
         height="48"
         alt="RUBY"
       />
       <br /><strong>Ruby</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
-        width="48"
-        height="48"
-        alt="PYTHON"
-      />
-      <br /><strong>SQL</strong>
     </td>
   </tr>
     
@@ -126,7 +117,7 @@ You can click the Preview link to take a look at your changes.
         height="48"
         alt="REDUX"
       />
-      <br /><strong>React</strong>
+      <br /><strong>Redux</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -175,7 +166,7 @@ You can click the Preview link to take a look at your changes.
           height="48"
           alt="FIREBASE"
         />
-        <br /><strong>PostgreSQL</strong>
+        <br /><strong>Firebase</strong>
       </td>
     <td align="center" height="108" width="108">
         <img
