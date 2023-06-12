@@ -44,6 +44,14 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>JavaScript</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"
+        width="48"
+        height="48"
+        alt="C#"
+      />
+      <br /><strong>JavaScript</strong>
     <td align="center" height="108" width="108">
       <img
         src="https://titrias.com/files/2022/04/typescript.png"
@@ -111,6 +119,15 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>React</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg"
+        width="48"
+        height="48"
+        alt="REDUX"
+      />
+      <br /><strong>React</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -151,6 +168,15 @@ You can click the Preview link to take a look at your changes.
    
   <tr>
     <td>Databases</td>
+        <td align="center" height="108" width="108">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg"
+          width="48"
+          height="48"
+          alt="FIREBASE"
+        />
+        <br /><strong>PostgreSQL</strong>
+      </td>
     <td align="center" height="108" width="108">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
