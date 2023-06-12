@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Smoopfrog)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoopfrog&layout=compact)
 
 <br>
 
 # :computer: Technologies & Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoopfrog&layout=compact)
 
 <table>  
   <tr>
