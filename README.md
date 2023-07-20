@@ -7,13 +7,12 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-[![GitHub
-Streak](https://streak-stats.demolab.com/?user=Smoopfrog)](https://git.io/streak-stats)
+[![GitHubStreak](https://streak-stats.demolab.com/?user=Smoopfrog)](https://git.io/streak-stats)
 
 <br />
 
-# :computer: Technologies & Tools: ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoopfrog&layout=compact)
+# :computer: Technologies & Tools: 
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoopfrog&layout=compact)
 
 <table>
   <tr>
