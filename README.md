@@ -5,16 +5,17 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Jeff Stinson</h1>
 <h2 align="center">Full-Stack Web Developer</h2>
 
-<br>
+<br />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Smoopfrog)](https://git.io/streak-stats)
+[![GitHub
+Streak](https://streak-stats.demolab.com/?user=Smoopfrog)](https://git.io/streak-stats)
 
-<br>
+<br />
 
-# :computer: Technologies & Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoopfrog&layout=compact)
+# :computer: Technologies & Tools: ![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoopfrog&layout=compact)
 
-<table>  
+<table>
   <tr>
     <td>Languages</td>
     <td align="center" height="108" width="108">
@@ -61,6 +62,8 @@ You can click the Preview link to take a look at your changes.
         alt="C#"
       />
       <br /><strong>C#</strong>
+    </td>
+
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
@@ -71,7 +74,7 @@ You can click the Preview link to take a look at your changes.
       <br /><strong>Ruby</strong>
     </td>
   </tr>
-    
+
   <tr>
     <td>Frameworks & Libraries</td>
     <td align="center" height="108" width="108">
@@ -110,7 +113,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>React</strong>
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg"
         width="48"
@@ -156,37 +159,36 @@ You can click the Preview link to take a look at your changes.
       <br /><strong>MATERIAL-UI</strong>
     </td>
   </tr>
-   
+
   <tr>
     <td>Databases</td>
-        <td align="center" height="108" width="108">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg"
-          width="48"
-          height="48"
-          alt="FIREBASE"
-        />
-        <br /><strong>Firebase</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg"
-          width="48"
-          height="48"
-          alt="MONGODB"
-        />
-        <br /><strong>NongoDB</strong>
-      </td>
-
     <td align="center" height="108" width="108">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          width="48"
-          height="48"
-          alt="POSTGRESQL"
-        />
-        <br /><strong>PostgreSQL</strong>
-      </td>
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg"
+        width="48"
+        height="48"
+        alt="FIREBASE"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MONGODB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="POSTGRESQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
   </tr>
   <tr>
     <td>Testing</td>
@@ -235,5 +237,5 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Chai</strong>
     </td>
-  </tr>  
+  </tr>
 </table>
